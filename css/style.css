@@ -249,7 +249,7 @@ footer span {
     width: 90%;
     text-align: center;
 }
-@media screen and (max-whidth: 1200px){
+@media screen and (max-width: 1200px){
     .menu-header {
         width: 60%;
     }
